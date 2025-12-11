@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
 import { useEffect } from 'react';
 import RunnerMod from './components/RunnerMod';
-import FighterMod from './components/FigherMod';
+import FighterMod from './components/FighterMod';
 import Loader from './components/Loader';
-import MKOverlay from './components/MkOverlay';
+import MKOverlay from './components/MKOverlay';
 // Assets
 import JaniIntro from './assets/JaniIntro.mp4';
 import JaniLost from './assets/JaniLost.mp4';
